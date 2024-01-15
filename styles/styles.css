@@ -152,7 +152,7 @@ footer{
     width: 30%;
     height: 100px;
     text-align: center;
-    border: 2px solid wheat;
+    /* border: 2px solid wheat; */
     color: #FFF;
     
 }
@@ -160,4 +160,13 @@ footer{
 .foot-container h1{
     font-size: 2.5rem;
     margin-bottom: 50px;
+}
+
+.foot-container .fa-brands{
+   font-size: 50px;
+    
+}
+
+.hidden{
+    display: none;
 }
